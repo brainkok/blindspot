@@ -14,7 +14,7 @@
 `setup.sh` installs all dependencies, obtains a Let's Encrypt certificate, patches `collector.py`, creates a systemd service that auto-restarts, and configures certificate auto-renewal — all in one step.
 
 ```bash
-git clone https://github.com/yourusername/blindspot.git /opt/blindspot
+git clone https://github.com/brainkok/blindspot.git /opt/blindspot
 cd /opt/blindspot
 sudo bash setup.sh
 ```
