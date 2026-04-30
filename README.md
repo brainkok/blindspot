@@ -46,7 +46,7 @@ Other variables you may want to change:
 | Variable | Default | Description |
 |---|---|---|
 | `COLLECT_URL` | `https://example.com/a` | Public URL of the collector endpoint |
-| `CAPTURES_DIR` | `iuvhlijuhrthuyureh/` | Directory where captures are stored |
+| `CAPTURES_DIR` | `captures/` | Directory where captures are stored |
 | `LISTEN_PORT` | `443` | Port to listen on |
 | `CERT_FILE` | `/etc/letsencrypt/…/fullchain.pem` | TLS certificate |
 | `KEY_FILE` | `/etc/letsencrypt/…/privkey.pem` | TLS private key |
