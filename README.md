@@ -11,8 +11,7 @@ A lightweight, single-file Flask server for blind XSS testing. When a payload fi
 - Single Python file, minimal dependencies (Flask only)
 - HTTPS via Let's Encrypt
 - Password-protected dashboard
-- Session cookie with `HttpOnly`, `Secure`, `SameSite=Strict`
-- Captures: cookies · URI · user agent · referrer · DOM · iframe status · screenshot
+- Captures: cookies · URI · user agent · referrer · iframe status · screenshot
 - Dark / light theme dashboard
 - Payload reference page with one-click copy
 
