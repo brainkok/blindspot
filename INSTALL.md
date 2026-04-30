@@ -47,7 +47,7 @@ pip3 install flask gunicorn
 ### 2. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/blindspot.git /opt/blindspot
+git clone https://github.com/brainkok/blindspot.git /opt/blindspot
 cd /opt/blindspot
 ```
 
